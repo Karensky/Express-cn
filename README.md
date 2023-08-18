@@ -1,4 +1,4 @@
-# Express-cn
+# Express-CN
 
 欢迎来到 Express 框架开发文档的完全中文版仓库！
 
