@@ -1,6 +1,3 @@
-当然，我可以帮您编写一个适用于您的 GitHub 仓库的 README 文件。以下是一个示例，您可以根据需要进行修改和定制：
-
-```markdown
 # Express-cn
 
 欢迎来到 Express 框架开发文档的完全中文版仓库！
@@ -22,28 +19,20 @@
 
 1. 克隆或下载本仓库到您的本地环境：
 
-```bash
-git clone https://github.com/your-username/Express-cn.git
-```
+   ```bash
+   git clone https://github.com/Karensky/Express-cn.git
+   ```
 
 2. 进入仓库目录：
 
-```bash
-cd Express-cn
-```
+   ```bash
+   cd Express-cn
+   打开 `xxx.md` 文件，浏览您需要的文档内容。
+   ```
 
-3. 打开 `index.md` 文件，浏览您需要的文档内容。
-
-4. 如果发现翻译错误或有改进建议，请提交 Pull Request。
-
-## 联系我们
-
-如果您有任何疑问、建议或问题，欢迎在 Issues 中提出。我们会尽力回复您并解决问题。
+3. 如果发现翻译错误或有改进建议，请提交 Pull Request。
 
 ## 授权
 
-本仓库的内容基于 [Express 官方文档](https://expressjs.com/) 进行翻译和整理，遵循原文的授权方式。
+本仓库的内容基于 [Express 官方文档](https://expressjs.com/) 进行翻译和整理，遵循原文的授权方式。如有侵权，联系删除仓库。
 
-```
-
-请记得将 `your-username` 替换为您的 GitHub 用户名，并根据您的需求进行适当的修改。这只是一个基础的示例，您可以根据您的具体情况添加更多内容，比如示例代码、使用说明等等。
